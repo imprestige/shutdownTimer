@@ -1,1 +1,1 @@
-Be careful! After you start a program, you can't stop it!
+Be careful! After you start a timer, you can't stop it!
